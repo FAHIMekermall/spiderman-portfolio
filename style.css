@@ -1,6 +1,7 @@
 body{
     font-family: 'Oswald', sans-serif;
     font-size: 200%;
+    margin: 0;
 }
 #name1{
     color: rgb(19, 0, 187);
@@ -16,11 +17,23 @@ span{
     color: rgba(0, 0, 0, 0.61);
 }
 .half1 img{
-    width: 70%;
+    width: 80%;
 }
 .text1{
     color: rgba(43, 255, 0, 0.712);
 }
 #highlight1{
     color: red;
+}
+.linkbutton1{
+    text-decoration: none;
+    background-image: linear-gradient(salmon, orange);
+    padding: 5px 25px;
+    color: lawngreen;
+    font-weight: 700;
+    border-radius: 5px;
+}
+#topbanner{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
 }
