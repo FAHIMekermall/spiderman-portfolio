@@ -89,3 +89,11 @@ span{
     margin-right: 3%;
     box-shadow: 20px 20px 15px gray;
 }
+footer{
+    margin-top: 10%;
+    font-size: 70%;
+    text-align: center;
+}
+#footerstyle{
+    text-decoration: none;
+}
