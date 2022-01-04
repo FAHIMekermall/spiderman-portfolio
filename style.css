@@ -55,5 +55,19 @@ span{
     color: cyan;
 }
 .half2{
-    border-left: 2px solid gray;
+    border-left: 20px solid gray;
+    padding-left: 2%;
+    margin-left: 8%;
+}
+.text-101{
+    text-align: center;
+    color: fuchsia;
+    text-decoration: underline;
+    text-shadow: darkturquoise;
+    font-family: cursive;
+    font-weight: 500;
+}
+.background-img-1{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
 }
