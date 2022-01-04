@@ -42,3 +42,7 @@ span{
 #text2{
     padding-right: 5%;
 }
+#dream1{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
