@@ -1,0 +1,26 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    font-size: 200%;
+}
+#name1{
+    color: rgb(19, 0, 187);
+}
+section{
+    display: flex;
+}
+.half1{
+    width: 50%;
+    padding-left: 10%;
+}
+span{
+    color: rgba(0, 0, 0, 0.61);
+}
+.half1 img{
+    width: 70%;
+}
+.text1{
+    color: rgba(43, 255, 0, 0.712);
+}
+#highlight1{
+    color: red;
+}
