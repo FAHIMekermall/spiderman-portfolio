@@ -6,7 +6,7 @@ body{
 #name1{
     color: rgb(19, 0, 187);
 }
-section{
+.section-32{
     display: flex;
     margin-top: 5%;
     margin-bottom: 2%;
@@ -42,7 +42,14 @@ span{
 #text2{
     padding-right: 5%;
 }
-#dream1{
+.dream1{
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.experience{
+    
+}
+#half2{
+   width: 50%; 
+}
