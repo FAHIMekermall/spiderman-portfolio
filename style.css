@@ -76,6 +76,7 @@ span{
     margin-right: 3%;
     box-shadow: 20px 20px 15px gray;
     background-color: white;
+    background-color: rgba(233, 228, 228, 0.692);
 }
 .half3{
     width: 50%;
@@ -88,6 +89,7 @@ span{
     margin-left: 8%;
     margin-right: 3%;
     box-shadow: 20px 20px 15px gray;
+    background-color: rgba(233, 228, 228, 0.692)
 }
 footer{
     margin-top: 10%;
